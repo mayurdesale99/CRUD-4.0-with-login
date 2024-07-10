@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mayur Desale",
+      "email": "mayur@gmail.com",
+      "address": "123 Main St",
+      "phone": "1234567890",
+      "password": "password123"
+    },
+    {
+      "id": 2,
+      "name": "Vishal Bauri",
+      "email": "Vishal@gmail.com",
+      "address": "456 Elm St",
+      "phone": "0987654321",
+      "password": "password456"
+    }
+  ]
+}
